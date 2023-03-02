@@ -24,7 +24,7 @@
 - [Test-Suites and Test-Cases](https://github.com/Maxdegt/Test-Suites-and-Test-Cases)
 - [Bug-Reports](https://github.com/Maxdegt/Bug-Reports)
 - [SQL Queries](https://github.com/Maxdegt/SQL-Queries)
-- [Postman Collections](https://github.com/Maxdegt/Postman-Collections.git)
+- [Postman Collections](https://www.postman.com/material-observer-45043001/workspace/test-workspace)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/rusau.qalife/)
