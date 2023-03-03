@@ -28,6 +28,6 @@
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/Maxdegtya)
-[![Header](https://img.shields.io/badge/Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=1c96e8)](maxdegtya@gmail.com)
+[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=1c96e8)](linkedin.com/in/max-degtyarev-93b874268)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxdegt&show_icons=true&theme=radical)
